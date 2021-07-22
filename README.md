@@ -1,4 +1,4 @@
-<img src="https://export-download.canva.com/WfujM/DAEjKUWfujM/3/0/0001-3858713174.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20210705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210705T101529Z&X-Amz-Expires=5742&X-Amz-Signature=29c22dbd15f6ae802c297734c61cdcebe41c12c22cea4f4a32cfb48f137c7ed1&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.png&response-expires=Mon%2C%2005%20Jul%202021%2011%3A51%3A11%20GMT">
+<img src="https://raw.githubusercontent.com/FIMehedi/FIMehedi/main/cover.png">
 
 <h2> Hey there! 👋 I'm Fokrul Islam Mehedi.</h2>
 
