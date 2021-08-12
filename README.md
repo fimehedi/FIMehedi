@@ -52,7 +52,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<!-- <a href="https://www..com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://fimehedi.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-fimehedi.web.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/fimehedi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fokrul%20Islam%20Mehedi-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/fimehedi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fimehedi-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:coderfimehedi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-coderfimehedi@gmail.com-blue?style=flat-square&logo=gmail"></a>
