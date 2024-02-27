@@ -94,8 +94,8 @@
   </a> 
 </p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fimehedi&" alt="fimehedi" style="width: 100%;" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fimehedi&show_icons=true&locale=en&layout=compact" alt="fimehedi" style="width: 100%;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fimehedi&" alt="fimehedi" style="width: 50%;" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fimehedi&show_icons=true&locale=en&layout=compact" alt="fimehedi" style="width: 50%;" /></p>
 
 
 <h3 align="left">Support:</h3>
