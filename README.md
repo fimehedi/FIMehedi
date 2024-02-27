@@ -93,10 +93,12 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fimehedi&" alt="fimehedi" style="width: 100%;" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fimehedi&show_icons=true&locale=en&layout=compact" alt="fimehedi" style="width: 100%;" /></p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fimehedi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fimehedi" /></a><a href="https://ko-fi.com/fimehedi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fimehedi" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fimehedi&show_icons=true&locale=en&layout=compact" alt="fimehedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fimehedi&" alt="fimehedi" /></p>
