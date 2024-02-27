@@ -1,61 +1,102 @@
-<img src="https://raw.githubusercontent.com/FIMehedi/FIMehedi/main/cover.png">
+<h1 align="center">Hi 👋, I'm FOKRUL ISLAM MEHEDI</h1>
+<h3 align="center">Proven full-stack developer with a focus on backend development and strong proficiency in both JavaScript and Python.</h3>
 
-<h2> Hey there! 👋 I'm Fokrul Islam Mehedi.</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fimehedi&label=Profile%20views&color=0e75b6&style=flat" alt="fimehedi" /> </p>
 
-<!-- <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fimehedi" alt="fimehedi" /></a> </p>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
+- 💼 JavaScript Developer at **STITBD**
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🌱 I’m currently learning **Docker**
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=007396)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=materialui)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
-- 🖥 &nbsp;
-  ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp)
-  ![Inkscape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=Inkscape)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  
-<br/>
+- 💬 Ask me about **Javascript, React.js, Next.js, Node, Express, Python, Django**
 
-<a href="https://github.com/fimehedi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fimehedi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIMehedi&theme=buefy&layout=compact" />
-</a>
+- 📫 How to reach me **coderfimehedi@gmail.com**
 
-<br/>
+- 📄 Know about my experiences: [GET RESUME](https://drive.google.com/file/d/1M8X2eChN6UbCvoygQtAPAp8oRVaZlHSE/view?usp=drive_link)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-<a href="https://fimehedi.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-fimehedi.web.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/fimehedi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fokrul%20Islam%20Mehedi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/fimehedi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fimehedi-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:coderfimehedi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-coderfimehedi@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fimehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fimehedi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fimehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fimehedi" height="30" width="40" /></a>
+<a href="https://fb.com/fimehedi.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fimehedi.me" height="30" width="40" /></a>
+<a href="https://instagram.com/fimehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fimehedi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fimehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fimehedi" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/fimehedi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fimehedi" /></a><a href="https://ko-fi.com/fimehedi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fimehedi" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fimehedi&show_icons=true&locale=en&layout=compact" alt="fimehedi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fimehedi&" alt="fimehedi" /></p>
