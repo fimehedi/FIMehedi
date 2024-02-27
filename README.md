@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FOKRUL ISLAM MEHEDI</h1>
-<h3 align="center">Proven full-stack developer with a focus on backend development and strong proficiency in both JavaScript and Python.</h3>
+<p align="center">Proven full-stack developer with a focus on backend development and strong proficiency in both JavaScript and Python.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fimehedi&label=Profile%20views&color=0e75b6&style=flat" alt="fimehedi" /> </p>
 
