@@ -35,7 +35,7 @@
 | JavaScript (ES6+) | HTML5 | Node.js | MongoDB | Git & GitHub |
 | TypeScript | CSS3 | Express.js | MySQL | Linux |
 | Python | SASS | Django | PostgreSQL | Bash |
-|  | Tailwind CSS |  | Firebase | Figma |
+|  | Tailwind CSS |  | Redis | Figma |
 |  | React.js |  |  |  |
 |  | Next.js |  |  |  |
 |  | Redux |  |  |  |
